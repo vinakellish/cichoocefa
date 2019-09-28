@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahquien.appliedlearninginitiative.org/sitemap.xml
